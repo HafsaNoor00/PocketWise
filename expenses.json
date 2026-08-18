@@ -1,0 +1,30 @@
+{
+    "8419": {
+        "amount": "2000",
+        "category": "food",
+        "date": "2026-08-18",
+        "description": "food items",
+        "payment": "card"
+    },
+    "6781": {
+        "amount": "70505",
+        "category": "shopping",
+        "date": "2024-08-12",
+        "description": "clotes",
+        "payment": "cash"
+    },
+    "4509": {
+        "amount": 4500.0,
+        "category": "food",
+        "date": "2025-08-23",
+        "description": "food items",
+        "payment": "card"
+    },
+    "9365": {
+        "amount": "5000",
+        "category": "food",
+        "date": "2024-03-23",
+        "description": "food items",
+        "payment": "card"
+    }
+}
